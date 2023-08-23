@@ -8,10 +8,10 @@ Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o
 
 ## ⚙️ Funcionalidades
 
-- [x] CRUD de médicos;
-- [x] CRUD de pacientes;
-- [ ] Agendamento de consultas(em breve);
-- [ ] Cancelamento de consultas(em breve);
+- [] CRUD de médicos;
+- [] CRUD de pacientes;
+- [] Agendamento de consultas(em breve);
+- [] Cancelamento de consultas(em breve);
 
 ---
 
